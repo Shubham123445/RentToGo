@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenttoGo", "RenttoGo\RenttoGo.csproj", "{B914177B-AFC8-4A4C-9536-239757051248}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamrin", "..\Xamrin\Xamrin\Xamrin.csproj", "{CBEBA72E-5589-41F9-874A-F6B19C1463F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B914177B-AFC8-4A4C-9536-239757051248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B914177B-AFC8-4A4C-9536-239757051248}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B914177B-AFC8-4A4C-9536-239757051248}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{B914177B-AFC8-4A4C-9536-239757051248}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B914177B-AFC8-4A4C-9536-239757051248}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B914177B-AFC8-4A4C-9536-239757051248}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CBEBA72E-5589-41F9-874A-F6B19C1463F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEBA72E-5589-41F9-874A-F6B19C1463F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEBA72E-5589-41F9-874A-F6B19C1463F4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CBEBA72E-5589-41F9-874A-F6B19C1463F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEBA72E-5589-41F9-874A-F6B19C1463F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEBA72E-5589-41F9-874A-F6B19C1463F4}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
